@@ -1,7 +1,7 @@
 import * as React from "react";
 import * as ReactDOM from "react-dom";
 
-export class Lists extends React.Component {
+export default class Lists extends React.Component {
   constructor() {
     super();
     this.state = {
